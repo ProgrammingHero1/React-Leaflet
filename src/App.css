@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.user-map {
+  height: 100vh;
+  width: 60%;
+}
+
+.location-map {
+  height: 100vh;
+  width: 100%;
+}
+
+.leaflet-routing-container {
+  display: none;
+}
